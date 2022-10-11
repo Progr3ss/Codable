@@ -1,6 +1,6 @@
 import Foundation
 
-public struct Plane: Codable {
+public struct PlaneDictionary: Codable {
     public var manufacturer: String
     public var model: String
     public var seats: Int
